@@ -1,5 +1,7 @@
 # Changelog
 
+Test message
+
 ## May 2018
 
 * Corrected package imports
